@@ -1,0 +1,48 @@
+[submodule "Backend/Backend Administrador/MSADMIN_EVENT_BUS"]
+	path = Backend/Backend Administrador/MSADMIN_EVENT_BUS
+	url = https://github.com/SteelheartBreak/MSADMIN_EVENT_BUS.git
+[submodule "Backend/Backend Administrador/MSADMIN_Usuarios"]
+	path = Backend/Backend Administrador/MSADMIN_Usuarios
+	url = https://github.com/SteelheartBreak/MSADMIN_Usuarios.git
+[submodule "Backend/Backend Administrador/MSADMIN_Ventas_Empresa"]
+	path = Backend/Backend Administrador/MSADMIN_Ventas_Empresa
+	url = https://github.com/SteelheartBreak/MSADMIN_Ventas_Empresa.git
+[submodule "Backend/Backend Administrador/MSADMIN_Marketing"]
+	path = Backend/Backend Administrador/MSADMIN_Marketing
+	url = https://github.com/SteelheartBreak/MSADMIN_Marketing.git
+[submodule "Backend/Backend Administrador/MSADMIN_Soporte"]
+	path = Backend/Backend Administrador/MSADMIN_Soporte
+	url = https://github.com/SteelheartBreak/MSADMIN_Soporte.git
+[submodule "Backend/Backend Usuarios/MS_Event_Bus"]
+	path = Backend/Backend Usuarios/MS_Event_Bus
+	url = https://github.com/SteelheartBreak/MS_Event_Bus.git
+[submodule "Backend/Backend Usuarios/MS_Usuarios"]
+	path = Backend/Backend Usuarios/MS_Usuarios
+	url = https://github.com/SteelheartBreak/MS_Usuarios.git
+[submodule "Backend/Backend Usuarios/MS_Nomina"]
+	path = Backend/Backend Usuarios/MS_Nomina
+	url = https://github.com/SteelheartBreak/MS_Nomina.git
+[submodule "Backend/Backend Usuarios/MS_Contabilidad"]
+	path = Backend/Backend Usuarios/MS_Contabilidad
+	url = https://github.com/SteelheartBreak/MS_Contabilidad.git
+[submodule "Backend/Backend Usuarios/MS_Inventario"]
+	path = Backend/Backend Usuarios/MS_Inventario
+	url = https://github.com/SteelheartBreak/MS_Inventario.git
+[submodule "Backend/Backend Usuarios/MS_Ventas"]
+	path = Backend/Backend Usuarios/MS_Ventas
+	url = https://github.com/SteelheartBreak/MS_Ventas.git
+[submodule "Backend/Backend Usuarios/MS_Analitica"]
+	path = Backend/Backend Usuarios/MS_Analitica
+	url = https://github.com/SteelheartBreak/MS_Analitica.git
+[submodule "Frontend/API-Gateway---Usuario"]
+	path = Frontend/API-Gateway---Usuario
+	url = https://github.com/SteelheartBreak/API-Gateway---Usuario.git
+[submodule "Frontend/API-Gateway---ADMIN"]
+	path = Frontend/API-Gateway---ADMIN
+	url = https://github.com/SteelheartBreak/API-Gateway---ADMIN.git
+[submodule "Frontend/Web-App---Usuario"]
+	path = Frontend/Web-App---Usuario
+	url = https://github.com/SteelheartBreak/Web-App---Usuario.git
+[submodule "Frontend/Web-App---ADMIN"]
+	path = Frontend/Web-App---ADMIN
+	url = https://github.com/SteelheartBreak/Web-App---ADMIN.git
